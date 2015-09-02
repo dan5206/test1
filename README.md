@@ -1,3 +1,3 @@
-# test1
-# hello
-# bye
+test1
+hello
+bye
